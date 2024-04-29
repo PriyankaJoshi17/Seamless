@@ -4,6 +4,9 @@
   "description": "This is the portfolio website",
   "main": "server.js",
   "type": "commonjs",
+  "engines": {
+    "node": "21.6.1"
+  }, 
   "scripts": {
     "test": "jest",
     "start": "nodemon server.js",
